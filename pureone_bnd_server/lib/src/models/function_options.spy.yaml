@@ -1,0 +1,6 @@
+class: FunctionOptions
+table: function_options
+fields:
+  category: String
+  title: String
+  thumbnail: String

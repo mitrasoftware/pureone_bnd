@@ -1,0 +1,5 @@
+class : FirstSecondCategory
+table: first_second_category
+fields:
+  firstCategory: String
+  secondCategory: String

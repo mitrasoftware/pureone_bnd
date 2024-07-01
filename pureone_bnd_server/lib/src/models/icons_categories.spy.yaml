@@ -1,0 +1,7 @@
+class: IconsCategories
+table: icons_categories
+fields:
+  title: String
+  imageUrl: String
+  blurhash: String
+  contains : String

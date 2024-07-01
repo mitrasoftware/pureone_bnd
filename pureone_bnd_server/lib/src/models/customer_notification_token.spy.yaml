@@ -1,0 +1,5 @@
+class: CustomNotificationToken
+table: customer_notification_token
+fields: 
+  device: String
+  token: String

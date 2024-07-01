@@ -1,0 +1,11 @@
+class : FeedBack
+table: feedback
+fields: 
+  name: String
+  mobile: String
+  address: String
+  ratings: String
+  feedback: String
+  latitude: String
+  longitude: String
+  addedDate: DateTime

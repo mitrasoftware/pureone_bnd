@@ -1,0 +1,4 @@
+class: ServerExpiration
+table: server_expiration
+fields:
+  expiryDate: String

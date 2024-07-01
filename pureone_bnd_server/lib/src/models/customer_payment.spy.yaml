@@ -1,0 +1,17 @@
+class: CustomerPayment
+table: customer_payment
+fields: 
+  customerName: String  
+  mobileNumber: String 
+  upiId: String 
+  tr: String 
+  tid: String 
+  amount: String 
+  status: String 
+  productName: String 
+  productAmount: String 
+  tip: String 
+  deliveryCharges: String 
+  customerLocation: String 
+  shopId: String 
+  orderTime: DateTime

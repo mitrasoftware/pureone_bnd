@@ -1,0 +1,7 @@
+class :  ListCategory
+table: list_category
+fields: 
+  title: String
+  categories: String
+  imageurl: String
+  blurhash : String

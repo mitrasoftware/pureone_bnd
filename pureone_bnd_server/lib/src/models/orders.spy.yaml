@@ -1,0 +1,11 @@
+class : Orders
+table: orders
+fields: 
+  order: String
+  orderDate: String
+  status: String
+  mobile: String
+  paymentMode: String
+  amount: String
+  userDetails: String
+  shopId: String

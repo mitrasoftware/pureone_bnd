@@ -1,0 +1,7 @@
+class : ActiveOrders
+table: activer_orders
+fields: 
+  orderId: String
+  deliveryBoyMobile: String
+  dateTime: DateTime
+  status: String

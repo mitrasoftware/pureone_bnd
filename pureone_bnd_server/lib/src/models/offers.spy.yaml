@@ -1,0 +1,5 @@
+class : Offers
+table: offers
+fields:
+  productId: String
+  offer: String

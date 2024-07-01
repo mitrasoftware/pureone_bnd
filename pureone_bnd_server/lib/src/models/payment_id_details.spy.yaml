@@ -1,0 +1,7 @@
+class: PaymentIdDetails
+table: payment_id_details
+fields:
+  name: String
+  mobile: String
+  area: String
+  saltKey: String

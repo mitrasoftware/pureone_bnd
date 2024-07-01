@@ -1,0 +1,14 @@
+class: SellerUser
+table: seller_user
+fields:
+  name: String 
+  mobile: String 
+  shopId: String 
+  shopName: String 
+  address: String 
+  latitude: String 
+  longitude: String 
+  category: String 
+  username: String 
+  password: String 
+  joinedDate: DateTime 

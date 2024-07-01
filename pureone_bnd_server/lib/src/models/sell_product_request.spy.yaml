@@ -1,0 +1,12 @@
+class: SellProductRequest
+table: sell_product_request
+fields:
+  name: String
+  mobile: String 
+  item: String 
+  description: String 
+  city: String 
+  state: String 
+  latitude: String 
+  logitude: String 
+  added: DateTime 

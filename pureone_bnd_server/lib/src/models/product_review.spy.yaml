@@ -1,0 +1,9 @@
+class : ProductReview
+table: product_review
+fields: 
+  productId: String
+  ratings: String
+  review: String
+  mobile: String
+  addedDate: DateTime 
+  status :  String

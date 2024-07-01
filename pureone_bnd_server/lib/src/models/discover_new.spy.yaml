@@ -1,0 +1,4 @@
+class: DiscoverNew
+table: discover_new
+fields:
+  productId: String

@@ -1,0 +1,6 @@
+class: Category
+table: category
+fields:
+  categoryId: String
+  categoryName: String
+  specifications: String

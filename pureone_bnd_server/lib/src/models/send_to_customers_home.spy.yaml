@@ -1,0 +1,6 @@
+class: SendToCustomersHome
+table: send_to_customers_home
+fields:
+  mobile: String
+  orders: String
+  orderedDate: String 

@@ -1,0 +1,14 @@
+class: DeliveryLogin
+table: deliery_login
+fields:
+  name: String
+  mobile: String
+  address: String
+  imageUrl: String
+  decumentUrl: String
+  password: String
+  latitude: String 
+  longitude: String
+  cityOperation: String
+  type: String
+  token: String

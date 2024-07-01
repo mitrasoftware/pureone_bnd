@@ -1,0 +1,10 @@
+class : CustomerUser
+table: customer_user
+fields:
+  name: String 
+  mobile: String 
+  address: String 
+  lat: String  
+  lang: String  
+  password: String 
+  joinedDate:  DateTime 

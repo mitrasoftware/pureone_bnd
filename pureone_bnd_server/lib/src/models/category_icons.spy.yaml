@@ -1,0 +1,8 @@
+class: CategoryIcons
+table: categroy_icons
+fields:
+  title: String
+  subtitle: String
+  icon: String
+  category: String
+  blurhash: String

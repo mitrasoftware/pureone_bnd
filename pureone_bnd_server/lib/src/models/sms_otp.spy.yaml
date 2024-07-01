@@ -1,0 +1,6 @@
+class: SmsOtp
+table: sms_otp
+fields:
+  mobile: String
+  otp: String
+  date:  DateTime

@@ -1,0 +1,23 @@
+class: Product
+table: product
+fields:
+  productId: String
+  category: String
+  secondCategory: String
+  name: String
+  shopId: String
+  sellingPrice: String
+  mrp: String
+  searchKey: String
+  productUrl: String
+  description: String
+  specifications: String
+  dp: String
+  deliveryCharge: String
+  combinationFee: String
+  combinationMrpFee: String
+  combinationDpFee: String
+  notPresentSpecifications: String
+  quantity: String
+  paymentId: String
+  blurhash: String

@@ -1,0 +1,7 @@
+class: TotalDeliveriesBoy
+table: total_deliveries_boy
+fields:
+  orderId: String
+  amount: String
+  deliveryCharge: String
+  mobileNumber: String

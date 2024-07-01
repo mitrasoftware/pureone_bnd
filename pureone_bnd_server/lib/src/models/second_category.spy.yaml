@@ -1,0 +1,4 @@
+class: SecondCategory
+table: second_category
+fields:
+  name: String

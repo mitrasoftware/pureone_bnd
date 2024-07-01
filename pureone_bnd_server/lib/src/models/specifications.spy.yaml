@@ -1,0 +1,7 @@
+class: Specifications
+table: specifications
+fields:
+  weight: String
+  color: String
+  size: String
+  length: String

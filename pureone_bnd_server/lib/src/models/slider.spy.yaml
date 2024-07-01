@@ -1,0 +1,7 @@
+class: Slider
+table: slider
+fields:
+  title: String
+  categories: String
+  imageUrl: String
+  blurhash: String

@@ -1,0 +1,5 @@
+class: SeeAll
+table: see_all
+fields:
+    productId: String
+    seeAllType: String

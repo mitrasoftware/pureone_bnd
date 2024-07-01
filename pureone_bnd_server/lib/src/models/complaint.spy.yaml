@@ -1,0 +1,9 @@
+class: Complaints 
+table: complaint
+fields:  
+  name: String
+  phone: String
+  topic: String
+  complaint: String
+  added:  DateTime
+    
